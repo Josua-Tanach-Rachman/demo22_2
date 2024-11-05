@@ -1,1 +1,2 @@
 Mengisi file2
+Menambahkan 1 baris di file2
